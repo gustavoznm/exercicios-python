@@ -1,2 +1,5 @@
 # exercicios-python
-Exercicios e estudos de Python
+
+
+## Exercicios desde os primeiros contatos com o Python
+
